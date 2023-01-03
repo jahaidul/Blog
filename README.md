@@ -1,4 +1,3 @@
-# Blog
 # Map, Filter and Reduce
 Map, Filter, and Reduce are all functions in the Python Standard Library that can be used to manipulate lists. They are all defined in the functools module.
 
